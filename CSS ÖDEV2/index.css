@@ -1,0 +1,50 @@
+/* tüm yazıları ve kutuların ortada hizalı olmasını sağladım */
+.body{
+    text-align: center;
+}
+/* arama çubuğu ve diğer iki butona renk ve genişlik verdim */
+.mainbox{
+    background-color: rgb(219, 219, 219);
+    width: 513px;
+    height: 63px;
+    margin-left: auto;
+    margin-right: auto ;
+    
+}
+/* alt üç kutuya renk ve genişlikk ayarlarını yaptım */
+/* 1.kutu */
+.box1{
+    background-color: rgb(108, 255, 206);
+    margin-top: 1px;
+    width: 171px;
+    height: 80px;
+    margin-left: 675px;
+    float: left;
+    padding-top:10px;
+    
+    
+
+}
+/* 2.kutu */
+.box2{
+    background-color: rgb(95, 254, 201);
+    width: 165px;
+    height: 80px;
+    float: left;
+    margin-top: 1px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding-top: 10px;
+
+}
+/* 3.kutu */
+.box3{
+    background-color: rgb(78, 255, 196);
+    width: 171px;
+    height: 80px;
+    float: left;
+    margin-top: 1px;
+    margin-right:675px ;
+    padding-top: 10px;
+
+}
